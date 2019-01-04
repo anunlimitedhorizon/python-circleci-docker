@@ -6,9 +6,9 @@ def wrap_html(message):
     html = """
         <html>
         <body>
-            <div style='font-size:80px;'>
+            <div style='font-size:120px;'>
             <center>
-                <image height="600" width="531" src="https://secure.meetupstatic.com/photos/event/2/a/a/3/600_452110915.jpeg">
+                <image height="200" width="800" src="https://infosiftr.com/wp-content/uploads/2018/01/unnamed-2.png">
                 <br>
                 {0}<br>
             </center>
